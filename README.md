@@ -1,0 +1,2 @@
+# dic
+English dictionary 
